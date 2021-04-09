@@ -1,0 +1,1 @@
+$dhcps = (get-dhcpServerInDc).DnsName
